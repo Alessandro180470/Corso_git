@@ -8,3 +8,4 @@ Uno dei piatti perferiti anche a mezza notte
 * aglio
 * olio
 * peperoncino
+* prezzemolo
